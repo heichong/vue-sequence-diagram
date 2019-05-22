@@ -4,6 +4,8 @@
 
 This work was inspired from https://github.com/echoma/text_sequence_diagram
 
+[Demo](https://heichong.github.io/vue-sequence-diagram/index.html) 
+
 ## Build Setup
 
 ``` bash
