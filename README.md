@@ -4,7 +4,7 @@
 
 This work was inspired from https://github.com/echoma/text_sequence_diagram
 
-![效果](https://heichong.github.io/vue-sequence-diagram/blob/master/images/index.png)
+![效果](https://heichong.github.io/vue-sequence-diagram/images/index.png)
 
 ## Build Setup
 
