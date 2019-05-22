@@ -2,6 +2,8 @@
 
 > Sequence Diagram for vue2
 
+This work was inspired from https://github.com/echoma/text_sequence_diagram
+
 ## Build Setup
 
 ``` bash
