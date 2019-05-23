@@ -9,11 +9,7 @@ This work was inspired from https://github.com/echoma/text_sequence_diagram
 ## Build Setup
 
 ``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
+npm install vue-sequence-diagram --save
 
 ```
 
